@@ -2,12 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Demo 
+![image](https://github.com/Ramzan-Ali12/Reactjs-Tic-tac-toa/assets/103037323/efe62cbf-0b93-45d2-8496-09dba446a99a)
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-## Project Demo 
-![image](https://github.com/Ramzan-Ali12/Reactjs-Tic-tac-toa/assets/103037323/efe62cbf-0b93-45d2-8496-09dba446a99a)
 
 ### `npm start`
 
